@@ -8,10 +8,6 @@
   padding: 0 0 0 18px;
 }
 
-.header__link:hover {
-  text-decoration: underline solid;
-}
-
 @media screen and (max-width: 767px) {
   .header__link {
     font-size: 18px;
